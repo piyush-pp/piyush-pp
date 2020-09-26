@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new opportunities in MERN
 - 🥅 2020 Goals: Master Node.js and React
+- 🥅 Working on these projects -> [BLOG][blog] website and [PIZZA][pizza] delivery webapp.
 - ⚡ Fun fact: I am competetive programmer/progamer
 
 
@@ -45,3 +46,5 @@
 [codechef]: https://www.codechef.com/users/piyush_pp
 [instagram]: https://instagram.com/piyush_pp
 [linkedin]: https://www.linkedin.com/in/piyush-pandey-b594b7180/
+[blog]: https://github.com/piyush-pp/blog
+[pizza]: https://github.com/piyush-pp/pizza-website
