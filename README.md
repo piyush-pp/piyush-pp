@@ -8,7 +8,7 @@
 - 👯 I’m looking for new opportunities in MERN
 - 🥅 2020 Goals: Master Node.js and React
 - 🥅 Working on these projects -> [BLOG][blog] website and [PIZZA][pizza] delivery webapp.
-- ⚡ Fun fact: I am competetive programmer/progamer
+- ⚡ Fun fact: I am competitive programmer/progamer
 
 
 
